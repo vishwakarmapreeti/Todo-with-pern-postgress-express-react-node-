@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+.todo-row {
+  display: flex;
+ 
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
